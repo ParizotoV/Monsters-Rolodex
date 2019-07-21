@@ -2,7 +2,7 @@
   "name": "monsters-relodex",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://ParizotoV.github.io/Monsters-Rolodex",
+  "homepage": "https://parizotov.github.io/monsters-rolodex",
   "dependencies": {
     "gh-pages": "^2.0.1",
     "react": "^16.8.6",
